@@ -6,7 +6,7 @@ public class Tragamonedas {
 	public Tambor segundoTambor;
 	public Tambor tercerTambor;
 	FixNumberGenerator generator = new FixNumberGenerator(1);
-	
+	    
 	public Tragamonedas() {
 		this.primerTambor=new Tambor(generator);
 		this.segundoTambor=new Tambor(generator);
