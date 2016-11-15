@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class testTragamonedas {
-
+  
 	@Test
 	public void testFuncionamientoDelTragamonedas() {
 		Tragamonedas miTragamonedas = new Tragamonedas();
